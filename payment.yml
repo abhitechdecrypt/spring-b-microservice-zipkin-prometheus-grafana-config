@@ -1,6 +1,6 @@
 spring:
   application:
-    name: paymnet
+    name: payment
 
 server:
   port: 9111
