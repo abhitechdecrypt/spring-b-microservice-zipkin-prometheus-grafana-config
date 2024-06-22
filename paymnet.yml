@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: paymnet
+
+server:
+  port: 9111
+
+
+
+user:
+  message: "Welcome to the Booking service in Default Environment"
