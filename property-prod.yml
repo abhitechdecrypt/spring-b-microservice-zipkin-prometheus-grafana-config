@@ -3,7 +3,7 @@ server:
 # Database configuration 
 spring:
   datasource:
-    url: "jdbc:mysql://localhost:3306/propertiesProdDB?createDatabaseIfNotExist=true"
+    url: "jdbc:mysql://localhost:3306/properties_ProdcreateDatabaseIfNotExist=true"
     username: root
     password: Abhishek@123
   jpa:
